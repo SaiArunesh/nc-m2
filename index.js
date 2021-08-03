@@ -18,8 +18,8 @@ let leaderBoard={
 };
 
 let questions = {
-  1:{question:prompt("Where do I Live?"), answer:"xoxo"},
-  2:{question:prompt("What song do i love?"), answer:"yoyo"},
+  1:{question:prompt("Is hulk bruce banner"), answer:"yes"},
+  2:{question:prompt("Are you batman?"), answer:"no"},
   3:{question:prompt("What is 2*2?"), answer:"dormamu"}
 }
 
