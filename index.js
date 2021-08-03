@@ -62,5 +62,5 @@ if(score>=points)
   }
 
   if(scoreBeatenFlag){
-    console.log(prompt("\nScreenshot your final score and send to me I will buy you an icecream"));  }
+    console.log(prompt("\nScreenshot your final score and send to me I will buy you an icecream and add to leaderBoard as well"));  }
 
